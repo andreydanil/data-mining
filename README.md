@@ -1,0 +1,1 @@
+a Map Reduce program to find max of 2 consecutive columns
